@@ -26,7 +26,7 @@ Status: scaffold only.
 == Related
 
 * https://github.com/openshellorg/command-namespace[command-namespace] - spec, schemas, registry library
-* https://github.com/openshellorg/ns[ns] - inspection and audit
+* https://github.com/openshellorg/name[name] - inspection and audit (`name which`, `name conflicts`)
 * https://github.com/openshellorg/install[install] - resolver front door
 * https://github.com/openshellorg/versions[versions] - version manager
 * https://github.com/openshellorg/isolate[isolate] - isolation levels front door
